@@ -244,4 +244,4 @@ If you for some reason need to hand in again, then *X* will have to be a new num
 
 3. The group must provide **read access** to their solution repository to the lab-assistent. The usernames of the lab-assistants are available via Canvas. 
 
-![](assets/github-actions.png)
+![](assets/github-actions.png)test
